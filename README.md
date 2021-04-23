@@ -105,4 +105,15 @@ From these results we can make conclusions and reccommendations to the stakehold
 ***
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./movie_analysis.ipynb).
+See the full analysis in the [Jupyter Notebook](./movie_analysis.ipynb), or the [Presentation](./microsoft_movie_studio_analysis_project.pdf).
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── microsoft_movie_studio_analysis_project.pdf
+├── movie_analysis.ipynb
+└── scratch_notebooks
+```
